@@ -2,7 +2,7 @@
 Collection of solutions from cses problem set
 
 Let's help other in getting started with Competitive Programming. Go to [CSES Problem Set](https://cses.fi/problemset/) and solve some problems. 
-Fork this repo, solve an solved problem and create a pull request. 
+Fork this repo, solve an unsolved problem and create a pull request. 
 
 Problems must be solved in C++ language;
 
