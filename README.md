@@ -23,6 +23,14 @@ Save file name as ProblemName.cpp in UpperCamelCase format without space.
 
 - Increasing Array
 
+- Permutations
+
+- Number Spiral
+
+- ***
+
+- Two Sets
+
 ### Sorting and Searching
 
 -
