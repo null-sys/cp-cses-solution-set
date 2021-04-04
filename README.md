@@ -29,7 +29,27 @@ Save file name as ProblemName.cpp in UpperCamelCase format without space.
 
 ### Dynamic Programming
 
--
+- Dice Combinations
+
+- Minimizing Coins
+
+- Coin Combinations I
+
+- Coin Combinations II
+
+- Removing Digits
+
+- Grid Paths
+
+- Book Shop
+
+- Array Description
+
+- Edit Distance
+
+- Rectangle Cutting
+
+- Money Sums
 
 ### Graph Algorithms
 
